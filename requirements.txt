@@ -1,0 +1,11 @@
+streamlit
+google-cloud-storage
+google-generativeai
+python-dotenv
+librosa
+soundfile
+numpy
+scipy
+ffmpeg-python
+gspread
+pandas
